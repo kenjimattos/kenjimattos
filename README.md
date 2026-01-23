@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Kenji%20Mattos%20Kinoshita&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product-Focused&descSize=16&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=180&amp;section=header&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product-Focused&amp;descSize=16&amp;descAlignY=55"/>
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/kenjimattos/">
-  <img src="https://img.shields.io/badge/-LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 <a href="mailto:kenjimattos@gmail.com">
   <img src="https://img.shields.io/badge/-Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -120,10 +120,10 @@ const kenji = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenjimattos/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenjimattos/)
 
 [![CV Download](https://img.shields.io/badge/CV%20Download-203a43)](Kenji%20Mattos%20Kinoshita.pdf)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=120&amp;section=footer"/>
