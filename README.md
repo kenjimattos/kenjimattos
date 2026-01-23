@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=180&amp;section=header&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product-Focused&amp;descSize=16&amp;descAlignY=55"/>
+![Kenji Mattos Kinoshita Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Kenji%20Mattos%20Kinoshita&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product-Focused&descSize=16&descAlignY=55)
 
 <div align="center">
 
@@ -126,4 +126,4 @@ const kenji = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=120&amp;section=footer"/>
+![Kenji Mattos Kinoshita Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
