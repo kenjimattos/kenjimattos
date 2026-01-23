@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kenji%20Mattos%20Kinoshita&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product-Focused&descSize=16&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Kenji%20Mattos%20Kinoshita&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product-Focused&descSize=16&descAlignY=55"/>
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/kenjimattos/">
-  <img src="https://img.shields.io/badge/-Kenji%20Mattos-203a43?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kenjimattos@gmail.com">
   <img src="https://img.shields.io/badge/-Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white"/>
