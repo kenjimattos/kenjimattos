@@ -1,4 +1,4 @@
-![Kenji Mattos Kinoshita Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Kenji%20Mattos%20Kinoshita&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Product-Focused&descSize=16&descAlignY=55)
+![Kenji Mattos Kinoshita Header](https://capsule-render.vercel.app/api?type=blur&height=400&color=0:0f2027,50:203a43,100:2c5364&text=Kenji%20Mattos%20Kinoshita&fontSize=60&fontColor=ffffff)
 
 <div align="center">
 
