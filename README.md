@@ -1,4 +1,8 @@
-![Kenji Mattos Kinoshita Header](https://capsule-render.vercel.app/api?type=blur&height=400&color=0:0f2027,50:203a43,100:2c5364&text=Kenji%20Mattos%20Kinoshita&fontSize=60&fontColor=ffffff)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=400&amp;color=0:0f2027,50:203a43,100:2c5364&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=60&amp;fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=400&amp;color=0:e6eef5,50:cfe0ea,100:b4cddd&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=60&amp;fontColor=2C5364" />
+  <img alt="Kenji Mattos Kinoshita Header" src="https://capsule-render.vercel.app/api?type=blur&amp;height=400&amp;color=0:0f2027,50:203a43,100:2c5364&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=60&amp;fontColor=ffffff" />
+</picture>
 
 <div align="center">
 
