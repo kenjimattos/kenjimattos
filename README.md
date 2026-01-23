@@ -30,7 +30,6 @@
 const kenji = {
   role: "Software Engineer | Frontend & Product-Focused",
   location: "Sao Bernardo do Campo, Sao Paulo, Brazil",
-  experience: "7+ years",
 
   bio: `Software Engineer with strong experience in frontend development
         using React and TypeScript for scalable, client-facing products.
@@ -67,89 +66,6 @@ const kenji = {
 
 ## :zap: Tech Stack
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  </a>
-  <br>TypeScript
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  </a>
-  <br>JavaScript
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  </a>
-  <br>React
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
-  </a>
-  <br>Next.js
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-  </a>
-  <br>Node.js
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
-  </a>
-  <br>PostgreSQL
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="65" height="65" />
-  </a>
-  <br>HTML5
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="65" height="65" />
-  </a>
-  <br>CSS3
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  </a>
-  <br>GitHub
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65" />
-  </a>
-  <br>Figma
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-  </a>
-  <br>REST API
-</td>
-<td align="center" width="96">
-  <a href="#-tech-stack">
-    <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
-  </a>
-  <br>Git
-</td>
-</tr>
-</table>
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,postgres,tailwind,figma,github&perline=6&theme=light" />
 
 </div>
@@ -157,10 +73,6 @@ const kenji = {
 <br/>
 
 ## :rocket: Professional Experience
-
-<table>
-<tr>
-<td width="50%">
 
 ### <img src="https://img.shields.io/badge/Revoluna-203a43?style=flat-square&logoColor=white" height="20"/> Full Stack Developer (Frontend-Focused)
 
@@ -183,14 +95,6 @@ const kenji = {
 - Launched a functional MVP using low-code + custom code
 - Bridged product, design, and engineering decisions
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
 ### <img src="https://img.shields.io/badge/Tactical-0f2027?style=flat-square&logoColor=white" height="20"/> Motion Designer
 
 **Apr 2021 - Oct 2023 | Remote - Dubai, UAE**
@@ -198,19 +102,12 @@ const kenji = {
 - Shipped digital products and interactive experiences for global clients
 - Delivered in fast-paced, fully remote teams
 
-</td>
-<td width="50%">
-
 ### <img src="https://img.shields.io/badge/Freelance-203a43?style=flat-square&logoColor=white" height="20"/> Motion Designer
 
 **Mar 2017 - Apr 2021 | Remote - Brazil**
 
 - Led projects end-to-end and managed direct client communication
 - Built strong delivery discipline across multidisciplinary teams
-
-</td>
-</tr>
-</table>
 
 <br/>
 
