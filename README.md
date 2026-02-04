@@ -30,40 +30,24 @@
 
 ## :technologist: About Me
 
-```typescript
-const kenji = {
-  role: "Software Engineer | Frontend & Product-Focused",
-  location: "Sao Bernardo do Campo, Sao Paulo, Brazil",
+```javascript
+import React from "react";
+import { useState, useEffect } from "react";
 
-  bio: `Software Engineer with strong experience in frontend development
-        using React and TypeScript for scalable, client-facing products.
-        Product-minded, performance-focused, and experienced in cross-team
-        collaboration across design, engineering, and stakeholders.`,
+function Kenji() {
+  let designYears = 8;
+const [background, setBackground] = useState("Design");
+const [skills, setSkills] = useState([]):
 
-  journey: {
-    start: "Design and motion for digital products",
-    evolution: "Frontend engineering and product design-to-code",
-    current: "Full stack collaboration with a frontend focus"
-  },
+useEffect (() => {
+  setBackground ("Design + Engineering");
+  setSkills (["React", "Node.js", "TypeScript", "REST APIs", "PostgreSQL"]);
+}, []);
 
-  stack: {
-    languages: ["TypeScript", "JavaScript"],
-    frontend: ["React", "Next.js", "HTML5", "CSS", "Tailwind CSS"],
-    backend: ["Node.js", "REST APIs", "Auth and business rules"],
-    databases: ["PostgreSQL", "Supabase"],
-    product: ["Figma", "UX flows", "Interface architecture"],
-    devops: ["Git", "GitHub", "CI/CD basics"]
-  },
-
-  expertise: [
-    "Product-focused frontend development",
-    "Design-to-code execution with UX clarity",
-    "API integration and scalable interfaces",
-    "Cross-functional collaboration in agile teams"
-  ],
-
-  philosophy: "Build the right thing, and build it well."
-};
+return background. includes("'Engineering") && skills. length >= 4
+? 'Full-Stack Developer (ex-${designYears}y Design)'
+: "Designer";
+}
 ```
 
 <br/>
