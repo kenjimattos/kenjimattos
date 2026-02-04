@@ -110,8 +110,6 @@ return background. includes("'Engineering") && skills. length >= 4
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenjimattos/)
 
-[![CV Download](https://img.shields.io/badge/CV%20Download-203a43)](Kenji%20Mattos%20Kinoshita.pdf)
-
 </div>
 
 ![Kenji Mattos Kinoshita Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
