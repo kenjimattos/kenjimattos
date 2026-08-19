@@ -44,11 +44,17 @@ The choropleth map is plain SVG generated from IBGE GeoJSON, with the lon/lat to
 
 **562 commits. Live demo in the repo.**
 
-### MCP server for Meta Business Insights · TypeScript *(production, private)*
+### [`meta-business-insights-mcp`](https://github.com/mediacraft-cc/meta-business-insights-mcp) · TypeScript *(in production, 49 commits authored)*
 
 Thirteen tools over the Meta Graph API — followers, page and Instagram insights, per-post performance, comment search — aggregated across an entire account portfolio, so a non-technical team can ask questions in natural language through Claude instead of navigating dashboards. A five-minute dashboard hunt became a thirty-second question.
 
 The access token stays on the server, which is what makes installation trivial for people who do not work with credentials: add the connector, sign in with Google Workspace, done. As a side effect, revoking someone's access is deleting a line rather than rotating a secret that holds write access to everything. Implemented as an authorization server with dynamic client registration (RFC 7591), an email allowlist, and write permission separated from read. Runs on a Linux VPS under systemd and Caddy, with a daily systemd timer that replays missed runs after downtime — the Instagram API only exposes a 30-day follower window, so a skipped day is data that never exists.
+
+### [`pdf-unlocker`](https://github.com/kenjimattos/pdf-unlocker) · Python · Flask
+
+My CS50x final project. A Flask app that strips the password from a PDF you can already open, so the file can be shared without handing over a password that is often more sensitive than the document.
+
+Small on purpose, and the reasoning is the point. The password never touches the filesystem: the file is decrypted in memory and the unlocked copy is written under a `uuid4` token, then deleted by an `after_this_request` hook the moment the download finishes. The path builder rejects anything that is not exactly 32 hex characters, which makes traversal through the token impossible by construction. Every failure comes back as a sentence a human can read rather than a status code, so the frontend needs no changes when a new error case appears.
 
 ---
 
