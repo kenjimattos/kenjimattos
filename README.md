@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:0f2027%2C50:203a43%2C100:2c5364&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=48&amp;fontColor=ffffff&amp;desc=Full-stack%20developer%20%C2%B7%20LLMs%20and%20MCP%20servers%20in%20production&amp;descSize=16&amp;descAlignY=68" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:e6eef5%2C50:cfe0ea%2C100:b4cddd&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=48&amp;fontColor=2C5364&amp;desc=Full-stack%20developer%20%C2%B7%20LLMs%20and%20MCP%20servers%20in%20production&amp;descSize=16&amp;descAlignY=68" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:0f2027%2C50:203a43%2C100:2c5364&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=48&amp;fontColor=ffffff&amp;desc=Software%20Engineer%20%C2%B7%20LLMs%20and%20MCP%20servers%20in%20production&amp;descSize=16&amp;descAlignY=68" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:e6eef5%2C50:cfe0ea%2C100:b4cddd&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=48&amp;fontColor=2C5364&amp;desc=Software%20Engineer%20%C2%B7%20LLMs%20and%20MCP%20servers%20in%20production&amp;descSize=16&amp;descAlignY=68" />
   <img alt="Kenji Mattos Kinoshita" src="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:0f2027%2C50:203a43%2C100:2c5364&amp;text=Kenji%20Mattos%20Kinoshita&amp;fontSize=48&amp;fontColor=ffffff" />
 </picture>
 
