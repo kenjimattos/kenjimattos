@@ -20,7 +20,7 @@
 
 ---
 
-I ship complete products in **React, Next.js, TypeScript and Node.js**, with **generative AI in production** — LLMs wired into the product through the API, from the prompt to the error handling, an MCP server with its own authorization layer that a team queries every day, and LLM-driven code review in CI.
+I ship complete products in **React, Next.js, TypeScript and Node.js**, with **generative AI in production** — LLMs wired into the product through the API, from the prompt to the error handling, and an MCP server with its own authorization layer that a team queries every day.
 
 I am an economist by training, with 7 years in corporate financial planning before engineering. That is why I model the business rules before writing the solution, and why I gravitate towards systems where the logic is the hard part: access control, medical staffing, socioeconomic indicators.
 
